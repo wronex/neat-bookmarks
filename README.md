@@ -1,4 +1,4 @@
-﻿**Notice: Neat Bookmarks has been sold and I'm no longer the owner of the extension.**
+﻿**Notice Since neat bookmarks where sold, this version is keept as the unmodified originaln.**
 
 Neat Bookmarks
 ==============
