@@ -1,4 +1,4 @@
-﻿**Notice: Since neat bookmarks where sold, this version is keept as an unmodified backup.**
+﻿**Notice: Since neat bookmarks where sold, this version is keept as an unmodified backup. Somethime in the future it will also be used to create a new downloads dropdown plugin.**
 
 Neat Bookmarks
 ==============
