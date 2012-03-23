@@ -1,4 +1,4 @@
-﻿**Notice Since neat bookmarks where sold, this version is keept as the unmodified originaln.**
+﻿**Notice: Since neat bookmarks where sold, this version is keept as an unmodified backup.**
 
 Neat Bookmarks
 ==============
